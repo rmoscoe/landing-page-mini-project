@@ -1,0 +1,28 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:#7723E6;
+    color: #F0EBE6;
+}
+
+/* Not working the way I want it to; need to debug.
+header { 
+    position:fixed;
+} */
+
+nav ul {
+    display: inline;
+}
+
+nav ul li {
+    display: inline;
+}
+
+img {
+    margin:30px;
+    padding:20px;
+    background-color:#F0EBE6;
+}
+
+#submit {
+    background-color:#2CE723;
+}
