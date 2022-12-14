@@ -9,6 +9,13 @@ header {
     position:fixed;
 } */
 
+h1 {
+   display:inline; 
+}
+nav {
+    display: inline;
+}
+
 nav ul {
     display: inline;
 }
@@ -25,4 +32,5 @@ img {
 
 #submit {
     background-color:#2CE723;
+    color:black;
 }
